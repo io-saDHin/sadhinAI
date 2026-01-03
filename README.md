@@ -80,7 +80,6 @@ I contribute to open-source projects and welcome collaboration. If you'd like to
 ## 🤝 Want to collaborate?
 I’m happy to help with technical strategy, code reviews, and architecture. If you're building something interesting — get in touch!
 
----
 
     <a
     id="cy-effective-orcid-url"
@@ -95,6 +94,6 @@ I’m happy to help with technical strategy, code reviews, and architecture. If 
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0008-0502-1982
     </a>
-----
+
 
 Thanks for stopping by — let’s build something great. ✨
